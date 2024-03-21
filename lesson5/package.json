@@ -1,0 +1,18 @@
+{
+  "name": "lesson5",
+  "version": "1.0.0",
+  "description": "this is a npm teting project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js"
+  ],
+  "author": "shahriar shakil",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.10.0"
+  }
+}
